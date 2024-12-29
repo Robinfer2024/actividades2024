@@ -1,0 +1,38 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #555;
+}
+
+label {
+    font-weight: bold;
+}
+
+select {
+    margin: 10px 0;
+    padding: 5px;
+    font-size: 16px;
+}
+
+#activities {
+    margin-top: 20px;
+}
+
+#activityList {
+    list-style: none;
+    padding: 0;
+}
+
+#activityList li {
+    margin: 5px 0;
+    padding: 10px;
+    background-color: #e3e3e3;
+    border-radius: 5px;
+}
